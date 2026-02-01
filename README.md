@@ -1,1 +1,2 @@
-# Voting-System-For-CSTE-CLUB
+# LightVotingSystem
+ Voting system
